@@ -1,8 +1,4 @@
 阿萨德发射点发
-<<<<<<< HEAD
 123
 123
 devdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevdevvdevdevdevdevdevdevdevdevdevdevdevdev
-=======
-新加一行
->>>>>>> master
